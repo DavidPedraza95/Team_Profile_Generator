@@ -45,6 +45,8 @@
   Please run npm start
   <ur>
 
+  ![demo](https://github.com/DavidPedraza95/Team_Profile_Generator/blob/main/Assets/Team%20Profile%20Generator.gif)
+    
     
   Please follow the link below for the full video:
     
