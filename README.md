@@ -26,12 +26,12 @@
  
   
   ## 🛠️Installation🛠️
-  Download the application, then install the necessary node packages by using npm commands. This application requires the use of a terminal.
+  Download the application, then install the necessary node packages by using npm commands. This application requires the use of a terminal to input the information.
 
   <ur>
 
   ## 📁Usage📁
-  This application is used to create profiles for a Team.
+  This application is used to create profiles (Manager, Engineer, Intern) for a Team. Each profile has their own set of questions.
   ## License 
     This project is licensed with MIT.
 
