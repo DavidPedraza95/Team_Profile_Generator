@@ -50,7 +50,7 @@
     
   Please follow the link below for the full video:
     
-  https://drive.google.com/file/d/1A7MbftKRx2m7iMZ7eTo8B-DNF1HCtud0/view
+  https://drive.google.com/file/d/14y5_nzrNaB_u7uK34PvvazXQXnxnvdXE/view?usp=sharing
     
     
     
