@@ -4,7 +4,7 @@
 
 
   ## Description
-  Using this application, you will generate an html containing a profile card for each Team Member. You will answer a breif series of questions to populate the information within the card.
+  Using this application, you will generate an html containing a profile card for each Team Member. You will answer a brief series of questions to populate the information within the card.
 
   <ur>
 
